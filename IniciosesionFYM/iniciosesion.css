@@ -1,0 +1,67 @@
+html
+{
+    background-image: url(cinema-filmmaking-2190951.jpg);
+    background-repeat: no-repeat;
+    color: rgb(240, 214, 187);
+    background-size: cover;
+    content: normal;
+}
+h1
+{
+    background-color: rgb(53, 53, 53);
+    width: fit-content;
+    height: fit-content;
+    font-size:70px;
+    position: absolute;
+    top: 35%;
+    border-radius: 15px;
+}
+
+/* Clases de acomodo de input */
+.pos1
+{
+    position: absolute;
+    right: 5%;
+    bottom: 10.3%;
+
+}
+.pos2
+{
+    position: absolute;
+    right: 4.5%;
+    bottom: 20%;
+
+}
+.pos3
+{
+    position: absolute;
+    right: 4.5%;
+    bottom: 30%;
+
+}
+.titfondo
+{
+    background-color: rgb(53, 53, 53);
+    width: fit-content;
+    height: fit-content;
+    font-size:70px;
+    position: absolute;
+    right: 4.5%;
+    top: 5%;
+    border-radius: 20px;
+}
+input:hover
+{
+    width: 480px;
+}
+input
+{
+    background-color: rgb(53, 53, 53);
+    color: rgb(240, 214, 187);
+    width: fit-content;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 15px;
+
+}
