@@ -1,0 +1,199 @@
+html{
+    background-image: url(../IniciosesionFYM/cine.jpg);
+    background-repeat: no-repeat;
+    color: rgb(240, 214, 187);
+    background-size: cover;
+    content: normal;
+    background-attachment: fixed;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(240, 214, 187)
+}
+
+.logo{
+
+    background-image: url(Captura_fondo.png);
+    background-size: cover;
+    position: absolute;
+    left: 1%;
+    top: 1%;
+
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+
+}
+
+.Buscador {
+    position: absolute;
+    left: 15%;
+    top: 6%;
+    transform: translate(0%,-50%);
+    padding: 50px;
+    
+}
+
+input {
+    background-color: rgba(53, 53, 53, .8);
+    outline: none;
+    box-sizing: border-box;
+    height: 40px;
+    width: 140px;
+    padding: 0 20px;
+    color: rgb(160, 138, 127) ;
+    border-radius: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border: 1px solid #000000;
+    transition: all .3s ease;
+    text-shadow: #000 70%;
+    color: rgb(240, 214, 187);
+}
+h1{
+    opacity: none;
+}
+
+::placeholder {
+
+    color: rgb(240, 214, 187)
+}
+
+.Buscador:hover input {
+    width: 1000px;}
+
+    .pelicula_semanal{
+
+        background-image: url(Untitled\ Project.jpg);
+        background-size: cover;
+        position: absolute;
+        border-style: solid;
+        left: 20%;
+        top: 12%;
+    
+        width: 950px;
+        height: 150px;
+        border: 3px solid black;
+
+        border-radius: 20px;
+    
+    }
+
+    .menu{
+
+        background-color: rgba(53, 53, 53, .8);
+        background-size: cover;
+        position: absolute;
+        left: 2%;
+        top: 15%;
+    
+        width: 170px;
+        height: 500px;
+        border-radius: 5px;
+
+        
+
+        letter-spacing: 7px;
+        color: rgba(240, 214, 187);
+        font-family:'Courier New', Courier, monospace;
+
+    }
+
+    .pelicula1{
+
+        background-image: url(Batman.jpg);
+        background-size: cover;
+        position: absolute;
+        left: 18%;
+        top: 40%;
+    
+        width: 225px;
+        height: 325px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 15px;
+
+
+    }
+    
+    .pelicula2{
+    
+        background-image: url(avatar2.jpg);
+        background-size: cover;
+        position: absolute;
+        left: 47%;
+        top: 40%;
+    
+        width: 225px;
+        height: 325px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 15px;
+    
+    }
+    
+    .pelicula3{
+    
+        background-image: url(Coraline_y_la_puerta_secreta-509800788-large.jpg);
+        background-size: cover;
+        position: absolute;
+        left: 75%;
+        top: 40%;
+    
+        width: 225px;
+        height: 325px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 15px;
+    
+    }
+
+    .pelicula4{
+
+        background-image: url(Batman.jpg);
+        background-size: cover;
+        position: absolute;
+        left: 18%;
+        top: 100%;
+    
+        width: 225px;
+        height: 325px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 15px;
+    
+    }
+    
+    .pelicula5{
+    
+        background-image: url(Batman.jpg);
+        background-size: cover;
+        position: absolute;
+        left: 47%;
+        top: 100%;
+    
+        width: 225px;
+        height: 325px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 15px;
+    
+    }
+    
+    .pelicula6{
+    
+        background-image: url(Batman.jpg);
+        background-size: cover;
+        position: absolute;
+        left: 75%;
+        top: 100%;
+    
+        width: 225px;
+        height: 325px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 15px;
+    }
+    
+    h1{
+
+        letter-spacing: 4%;
+    }
+
+
+
