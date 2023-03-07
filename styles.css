@@ -1,0 +1,26 @@
+
+body{
+    width: 280px;
+    height: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 400px;
+    gap: 10px;
+}
+
+.imagen-usuario{
+    width: 20px;
+    height: 60px;
+    background: none;
+    display: flex;
+}
+
+.imagen-usuario{
+    width: 20px;
+    height: 60px;
+    background: none;
+    display: flex;
+}
+
